@@ -1,3 +1,3 @@
 out=input("Siseta:  ")
 out2=out.strip()
-print(out.title())
+print(out2.title())
